@@ -1,0 +1,492 @@
+<section class="g-pos-rel">
+    <div class="dzsparallaxer auto-init height-is-based-on-content use-loading mode-scroll"
+         data-options='{direction: "reverse", settings_mode_oneelement_max_offset: "150"}'>
+        <!-- Carousel Slider -->
+        <div class="js-carousel u-carousel-v5"
+             data-infinite="true"
+             data-autoplay="true"
+             data-speed="8000"
+             data-pagi-classes="u-carousel-indicators-v34 g-absolute-centered--y g-left-auto g-right-30 g-right-100--md"
+             data-calc-target="#js-header"    style="height: 460px;" >
+        
+            <!-- Carousel Slides -->
+            <div class="js-slide h-100 g-flex-centered g-bg-img-hero g-bg-black-opacity-0_2--after" style="background-image: url(img/img1.jpg);">
+                <div class="container g-bg-cover__inner g-py-100">
+        
+                    <div class="row g-ml-100">
+						<div class="col-lg-8">&nbsp;</div>
+                        <div class="col-lg-4 g-mb-30 g-mb-0--lg ">
+                            <h2 class="h3 g-color-black  font-bold">
+                                <span class=" g-px-5--lg ">A real-time environment</span>
+                            </h2>
+                            <h3 class="h5 g-color-black">
+                                where Realtors and Apartments can connect
+                            </h3>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- End Carousel Slides -->
+        
+            <!-- Carousel Slides -->
+            <div class="js-slide h-100 g-flex-centered g-bg-img-hero g-bg-pos-top-center g-bg-black-opacity-0_3--after" style="background-image: url(img/img2.jpg);">
+                <div class="container g-bg-cover__inner g-py-100">
+        
+                    <div class="row g-ml-100">
+						<div class="col-lg-8">&nbsp;</div>
+                        <div class="col-lg-4 g-mb-30 g-mb-0--lg ">
+                            <h2 class="h3 g-color-black font-bold">
+                                <span class=" g-px-5--lg ">A real-time environment</span>
+                            </h2>
+                            <h3 class="h5 g-color-black">
+                                where Realtors and Apartments can connect
+                            </h3>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- End Carousel Slides -->
+            
+            <!-- Carousel Slides -->
+            <div class="js-slide h-100 g-flex-centered g-bg-img-hero g-bg-black-opacity-0_2--after" style="background-image: url(img/img3.jpg);">
+                <div class="container g-bg-cover__inner g-py-100">
+        
+                    <div class="row g-ml-100">
+						<div class="col-lg-8">&nbsp;</div>
+                        <div class="col-lg-4 g-mb-30 g-mb-0--lg">
+                            <h2 class="h3 g-color-black  font-bold">
+                                <span class=" g-px-5--lg ">A real-time environment</span>
+                            </h2>
+                            <h3 class="h5 g-color-black">
+                                where Realtors and Apartments can connect
+                            </h3>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- End Carousel Slides -->
+        
+            <!-- Carousel Slides -->
+            <div class="js-slide h-100 g-flex-centered g-bg-img-hero g-bg-pos-top-center g-bg-black-opacity-0_3--after" style="background-image: url(img/img4.jpg);">
+                <div class="container g-bg-cover__inner g-py-100">
+        
+                    <div class="row g-ml-100">
+						<div class="col-lg-8">&nbsp;</div>
+                        <div class="col-lg-4 g-mb-30 g-mb-0--lg">
+                            <h2 class="h3 g-color-black font-bold">
+                                <span class=" g-px-5--lg ">A real-time environment</span>
+                            </h2>
+                            <h3 class="h5 g-color-black">
+                                where Realtors and Apartments can connect
+                            </h3>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- End Carousel Slides -->
+            
+        </div>
+        <!-- End Carousel Slider -->
+        
+    </div>
+</section>
+<!-- End Promo Block -->
+
+<!-- Icon Blocks -->
+<section class="g-py-20">
+    <div class="container">
+        <div class="row no-gutters">
+            <div class="col-lg-4 g-px-40 g-mb-50 g-mb-0--lg">
+                <!-- Icon Blocks -->
+                <div class="text-center">
+                    <a 
+                                   href="#apartmentModal"
+                                   id="apartmentModalBtn"
+                                   data-modal-target="#apartmentModal"
+                                   data-modal-effect="slit">
+              <span class="d-inline-block u-icon-v3 u-icon-size--xl g-bg-primary g-color-white rounded-circle g-mb-30 3-icons">
+              <i class="icon-real-estate-002  u-line-icon-pro "></i>
+                </span>
+                        
+                                   <h3 class="h5 g-color-gray-dark-v2 g-font-weight-600 text-uppercase mb-3">Apartments</h3>
+                    </a>
+                    <p class="mb-0">We strive to embrace and drive change in our industry which allows us to keep our
+                        clients relevant.</p>
+                </div>
+                <!-- End Icon Blocks -->
+            </div>
+            
+            <div class="col-lg-4 g-brd-left--lg g-brd-gray-light-v4 g-px-40 g-mb-50 g-mb-0--lg">
+                <!-- Icon Blocks -->
+                <div class="text-center">
+                    <a href="javascript:void(0);">
+              <span class="d-inline-block u-icon-v3 u-icon-size--xl g-bg-primary g-color-white rounded-circle g-mb-30 3-icons">
+                 <i class="icon-communication-180 u-line-icon-pro "></i>
+                </span>
+                        <h3 class="h5 g-color-gray-dark-v2 g-font-weight-600 text-uppercase mb-3">Connect</h3>
+                    </a>
+                    <p class="mb-0">We strive to embrace and drive change in our industry which allows us to keep our
+                        clients relevant.</p>
+                </div>
+                <!-- End Icon Blocks -->
+            </div>
+            
+            <div class="col-lg-4 g-brd-left--lg g-brd-gray-light-v4 g-px-40">
+                <!-- Icon Blocks -->
+                
+                <div class="text-center">
+                    <a 
+                                   href="#realtorModal"
+                                   id="realtorModalBtn"
+                                   data-modal-target="#realtorModal"
+                                   data-modal-effect="slit">
+              <span class="d-inline-block u-icon-v3 u-icon-size--xl g-bg-primary g-color-white rounded-circle g-mb-30 3-icons">
+                 <i class="icon-user-following u-line-icon-pro"></i>
+                </span>
+                        <h3 class="h5 g-color-gray-dark-v2 g-font-weight-600 text-uppercase mb-3">Realtors</h3></a>
+                    <p class="mb-0">We strive to embrace and drive change in our industry which allows us to keep our
+                        clients relevant.</p>
+                </div>
+                
+                <!-- End Icon Blocks -->
+            </div>
+        </div>
+    </div>
+</section>
+<!-- End Icon Blocks -->
+
+<hr class="g-brd-gray-light-v4 my-0">
+
+<!-- Our Services -->
+<section class="g-py-100" style="padding-bottom:0!important">
+    <div class="container">
+        <header class="text-center g-width-60x--md mx-auto g-mb-50">
+            <div class="u-heading-v2-3--bottom g-brd-primary g-mb-20">
+                <h2 class="h4 u-heading-v2__title g-color-gray-dark-v2 g-font-weight-600 text-uppercase">Our Plans</h2>
+            </div>
+            <p class="g-font-size-16">Unify's 1610+ easy to use and customizable UI elements make it most customizable
+                theme on the market. Build websites easily as never before!</p>
+        </header>
+        
+        
+        <div class="row g-mb-70">
+            <?php foreach ($subscriptionPackages as $subscriptionPackage) { ?>
+                <div class="col-md-4 g-mb-30">
+                    <!-- Article -->
+                    <article
+                        class="u-shadow-v21 u-shadow-v21--hover g-bg-white text-center g-overflow-hidden g-rounded-4 g-pos-rel g-z-index-2 g-cursor-pointer g-transition-0_3">
+                        <!-- Article Header -->
+                        <header class="g-bg-primary g-pos-rel g-px-20 g-py-70"><strong
+                                class="d-block g-color-white g-font-size-50 g-line-height-0_7 g-mb-20"> <span
+                                    class="g-valign-top g-font-size-default">INR</span><?= $subscriptionPackage->price ?>
+                                <span
+                                    class="g-font-size-default"></span> </strong>
+                            <h3 class="h6 text-uppercase g-color-white-opacity-0_7 g-letter-spacing-3 g-mb-20"><?= $subscriptionPackage->name ?></h3>
+                        </header>
+                        <!-- End Article Header -->
+                        
+                        <!-- Article Content -->
+                        <div class="g-px-20 g-py-40">
+                            <ul class="list-unstyled g-mb-40">
+                                <li class="g-mb-20">Package <?= $subscriptionPackage->price ?></li>
+                                <li class="g-mb-20">Earn <?= $subscriptionPackage->earn_per_sms ?> paisa / Sms</li>
+                                <li class="g-mb-20">Cost <?= $subscriptionPackage->price ?> INR</li>
+                                <li class="g-mb-20">Pay By Paytm <?= $paytmNumber ?></li>
+                            </ul>
+                            <a class="btn text-uppercase u-btn-primary g-rounded-50 g-font-size-12 g-font-weight-700 g-pa-15-30 g-mb-10 select-plan"
+                               href="<?= $this->Url->build(['controller' => 'Users', 'action' => 'register']); ?>"
+                               id="plan_<?= $subscriptionPackage->id ?>">Order Now</a></div>
+                        <!-- End Article Content -->
+                    </article>
+                    <!-- End Article -->
+                </div>
+            <?php } ?>
+        </div>
+    
+    
+    </div>
+</section>
+<!-- End Our Services -->
+
+<hr class="g-brd-gray-light-v4 my-0">
+
+<!-- Our Recent Projects -->
+<section class="g-py-100" style="padding-bottom:0!important">
+    <div class="container">
+        <header class="g-mb-50">
+            <div class="u-heading-v2-3--bottom g-brd-primary g-mb-20">
+                <h2 class="h4 u-heading-v2__title g-color-gray-dark-v2 g-font-weight-600 text-uppercase">Recently Joined
+                    Users</h2>
+            </div>
+            <p class="g-font-size-16">Included Over 2000+ UI Components tvero eos et accusamus et iusto odio dignissimos
+                ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas moles.</p>
+        </header>
+        
+        <div class="container g-pos-rel g-z-index-1 g-pb-80">
+            <div class="js-carousel"
+                 data-infinite="true"
+                 data-autoplay="true"
+                 data-lazy-load="ondemand"
+                 data-slides-show="6"
+                 data-responsive='[{
+               "breakpoint": 1200,
+               "settings": {
+                 "slidesToShow": 6
+               }
+             }, {
+               "breakpoint": 992,
+               "settings": {
+                 "slidesToShow": 5
+               }
+             }, {
+               "breakpoint": 768,
+               "settings": {
+                 "slidesToShow": 4
+               }
+             }, {
+               "breakpoint": 576,
+               "settings": {
+                 "slidesToShow": 2
+               }
+             }, {
+               "breakpoint": 446,
+               "settings": {
+                 "slidesToShow": 1
+               }
+             }]'>
+                <div class="js-slide u-block-hover">
+                    <img
+                        class="mx-auto g-width-80 u-block-hover__main--grayscale g-opacity-0_3 g-opacity-1--hover g-cursor-pointer"
+                        data-lazy="img/img1.png" alt="Image description">
+                </div>
+                
+                <div class="js-slide u-block-hover">
+                    <img
+                        class="mx-auto g-width-80 u-block-hover__main--grayscale g-opacity-0_3 g-opacity-1--hover g-cursor-pointer"
+                        data-lazy="img/img2.png" alt="Image description">
+                </div>
+                
+                <div class="js-slide u-block-hover">
+                    <img
+                        class="mx-auto g-width-80 u-block-hover__main--grayscale g-opacity-0_3 g-opacity-1--hover g-cursor-pointer"
+                        data-lazy="img/img3.png" alt="Image description">
+                </div>
+                
+                <div class="js-slide u-block-hover">
+                    <img
+                        class="mx-auto g-width-80 u-block-hover__main--grayscale g-opacity-0_3 g-opacity-1--hover g-cursor-pointer"
+                        data-lazy="img/img4.png" alt="Image description">
+                </div>
+                
+                <div class="js-slide u-block-hover">
+                    <img
+                        class="mx-auto g-width-80 u-block-hover__main--grayscale g-opacity-0_3 g-opacity-1--hover g-cursor-pointer"
+                        data-lazy="img/img5.png" alt="Image description">
+                </div>
+                
+                <div class="js-slide u-block-hover">
+                    <img
+                        class="mx-auto g-width-80 u-block-hover__main--grayscale g-opacity-0_3 g-opacity-1--hover g-cursor-pointer"
+                        data-lazy="img/img7.png" alt="Image description">
+                </div>
+                
+                <div class="js-slide u-block-hover">
+                    <img
+                        class="mx-auto g-width-80 u-block-hover__main--grayscale g-opacity-0_3 g-opacity-1--hover g-cursor-pointer"
+                        data-lazy="img/img8.png" alt="Image description">
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- End Our Recent Projects -->
+
+
+<section class="g-py-100" style="padding-bottom:0!important">
+    <div class="container">
+        <header class="g-mb-50">
+            <div class="u-heading-v2-3--bottom g-brd-primary g-mb-20">
+                <h2 class="h4 u-heading-v2__title g-color-gray-dark-v2 g-font-weight-600 text-uppercase">PAYMENT
+                    PROOFS</h2>
+            </div>
+            <p class="g-font-size-16">Included Over 2000+ UI Components tvero eos et accusamus et iusto odio dignissimos
+                ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas moles.</p>
+        </header>
+        
+        <div class="container g-pos-rel g-z-index-1 g-pb-80">
+            <div class="js-carousel"
+                 data-infinite="true"
+                 data-autoplay="true"
+                 data-lazy-load="ondemand"
+                 data-slides-show="6"
+                 data-responsive='[{
+               "breakpoint": 1200,
+               "settings": {
+                 "slidesToShow": 6
+               }
+             }, {
+               "breakpoint": 992,
+               "settings": {
+                 "slidesToShow": 5
+               }
+             }, {
+               "breakpoint": 768,
+               "settings": {
+                 "slidesToShow": 4
+               }
+             }, {
+               "breakpoint": 576,
+               "settings": {
+                 "slidesToShow": 2
+               }
+             }, {
+               "breakpoint": 446,
+               "settings": {
+                 "slidesToShow": 1
+               }
+             }]'>
+                <?php foreach ($paymentProofs as $paymentProof) { ?>
+                    <div class="js-slide u-block-hover">
+                        <img data-lazy="<?= PAYMENT_PROOF_IMAGE_PATH . $paymentProof->proof_image ?>"
+                             alt="<?= $paymentProof->name ?>"
+                             class="mx-auto g-width-120 g-height-80 u-block-hover__main--grayscale g-opacity-0_5 g-opacity-1--hover g-cursor-pointer"/>
+                    </div>
+                <?php } ?>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+<!-- Latest News -->
+
+<!-- End Latest News -->
+
+<!-- Call To Action -->
+<section class="g-bg-primary g-color-white g-pa-30" style="background-image: url(img/pattern5.png);">
+    <div class="d-md-flex justify-content-md-center text-center">
+        <div class="align-self-md-center">
+            <p class="lead g-font-weight-400 g-mr-20--md g-mb-15 g-mb-0--md">We offer best in class service for your
+                needs</p>
+        </div>
+        <div class="align-self-md-center">
+            <a class="btn btn-lg u-btn-white text-uppercase g-font-weight-600 g-font-size-12" target="_blank" href="#">Order
+                Now</a>
+        </div>
+    </div>
+</section>
+<!-- End Call To Action -->
+<script>
+    $(document).on('ready', function () {
+        
+        $.HSCore.components.HSModalWindow.init('[data-modal-target]', {
+            onOpen: function (e) {
+                if(this[0].id == "realtorModal"){
+                    var vid1 = document.getElementById("realtorVideo");
+                    vid1.play();
+                }
+    
+                if(this[0].id == "apartmentModal"){
+                    var vid2 = document.getElementById("apartmentVideo");
+                    vid2.play();
+                }
+            },
+            onClose: function (e) {
+                var vid1 = document.getElementById("realtorVideo");
+                vid1.pause();
+    
+                var vid2 = document.getElementById("apartmentVideo");
+                vid2.pause();
+            },
+        });
+        // initialization of carousel
+        $.HSCore.components.HSCarousel.init('.js-carousel');
+        
+        // initialization of tabs
+        $.HSCore.components.HSTabs.init('[role="tablist"]');
+        
+        // initialization of popups
+        $.HSCore.components.HSPopup.init('.js-fancybox');
+        
+        // initialization of go to
+        $.HSCore.components.HSGoTo.init('.js-go-to');
+        
+        // initialization of text animation (typing)
+        $(".u-text-animation.u-text-animation--typing").typed({
+            strings: [
+                "an awesome template",
+                "perfect template",
+                "just like a boss"
+            ],
+            typeSpeed: 60,
+            loop: true,
+            backDelay: 1500
+        });
+        $('.select-plan').click(function (e) {
+            e.preventDefault();
+            localStorage.setItem("SelectedPlan", $(this).attr('id'));
+            window.location.href = $(this).attr('href');
+        });
+        
+        $('.3-icons').mouseover(function(){
+			$(this).addClass('a fa-spin');
+		});
+		
+		$('.3-icons').mouseout(function(){
+			$(this).removeClass('a fa-spin');
+		});
+        
+    });
+    
+    $(window).on('load', function () {
+        // initialization of header
+        $.HSCore.components.HSHeader.init($('#js-header'));
+        $.HSCore.helpers.HSHamburgers.init('.hamburger');
+        
+        // initialization of HSMegaMenu component
+        $('.js-mega-menu').HSMegaMenu({
+            event: 'hover',
+            pageContainer: $('.container'),
+            breakpoint: 991
+        });
+    });
+    
+    $(window).on('resize', function () {
+        setTimeout(function () {
+            $.HSCore.components.HSTabs.init('[role="tablist"]');
+        }, 200);
+    });
+</script>
+<!-- Demo modal window -->
+<div id="apartmentModal" class="text-left g-bg-white g-overflow-y-auto  g-pa-20"
+     style="display: none; width: 929px; height: auto;">
+    <button type="button" class="close" onclick="Custombox.modal.close();">
+        <i class="hs-icon hs-icon-close"></i>
+    </button>
+    <h4 class="g-mb-20">Apartment</h4>
+    <div calss="modal-body" id="imageMedia" style="position: relative;">
+        <video controls="" width="100%" height="500" id="apartmentVideo">
+            <source src="http://apartmentnetwork.com/animation/jillmy.mp4" type="video/mp4">
+            <source src="http://apartmentnetwork.com/animation/jillmy.mp4" type="video/ogg">
+            Your browser does not support the video tag.
+        </video>
+    </div>
+    <div class="clear-both"></div>
+</div>
+<!-- End Demo modal window -->
+
+<div id="realtorModal" class="text-left g-bg-white g-overflow-y-auto  g-pa-20"
+     style="display: none; width: 929px; height: auto;">
+    <button type="button" class="close" onclick="Custombox.modal.close();">
+        <i class="hs-icon hs-icon-close"></i>
+    </button>
+    <h4 class="g-mb-20">Realtor</h4>
+    <div calss="modal-body" id="imageMedia" style="position: relative;">
+        <video controls="" width="100%" height="500" id="realtorVideo">
+            <source src="http://apartmentnetwork.com/animation/barbara.mp4" type="video/mp4">
+            <source src="http://apartmentnetwork.com/animation/barbara.mp4" type="video/ogg">
+            Your browser does not support the video tag.
+        </video>
+    </div>
+    <div class="clear-both"></div>
+</div>

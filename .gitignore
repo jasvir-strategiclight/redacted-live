@@ -1,0 +1,28 @@
+# CakePHP specific files #
+##########################
+bin
+cgi-bin
+config/app.php
+config/constants.php
+config/.env
+logs/*
+tmp/*
+vendor/*
+config/constants.php
+webroot/error_log
+webroot/*
+Referral.redacted.inc.zip
+
+
+# OS generated files #
+######################
+.htaccess
+.user.ini
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+php.ini
+
+
